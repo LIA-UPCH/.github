@@ -24,11 +24,10 @@ Actualmente estos recursos se agrupan de la siguiente forma:
   - CPU: core i9
 
 ## Espacio de trabajo
-
+<img src="./imgs/video1.gif" width="50%" alt="Texto alternativo">
 Nos encontramos físicamente en el Laboratorio 113-1 del LID, en un ambiente cómodo  con espacio de trabajo para 7 usuarios con conexión a puntos de RED independientes. En este laboratorio se encuentran las Hinton&Holpfield.
 
 ![](./imgs/ambiente.png)
 
-![](./imgs/video1.gif)
 ---
 Made with ❤️ by [LIA-UPCH]
