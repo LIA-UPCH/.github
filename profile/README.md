@@ -1,5 +1,5 @@
-# 🌟 Bienvenido al Repositorio de LIA UPCH
-![Logo](./imgs/logo_solo.png) <!-- Optional: add your logo -->
+# Bienvenido al Repositorio de LIA UPCH
+![Logo](./imgs/logo_solo.png){: width="300"} <!-- Optional: add your logo -->
 
 El Laboratorio de Inteligencia Artificial de la Facultad de Ciencias e Ingeniería de la Universidad Peruana Cayetano Heredia (LIA-UPCH) se constituye como un espacio de investigación, formación y desarrollo en tecnologías emergentes. Su misión es potenciar el trabajo académico como tesis y proyectos de investigación de la facultad mediante el acceso a recursos de cómputo de alto rendimiento, orientados principalmente al diseño, entrenamiento y despliegue de modelos de inteligencia artificial aplicados a la salud.
 
