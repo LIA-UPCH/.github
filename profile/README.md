@@ -3,7 +3,7 @@
 
 El Laboratorio de Inteligencia Artificial de la Facultad de Ciencias e Ingeniería de la Universidad Peruana Cayetano Heredia (LIA-UPCH) se constituye como un espacio de investigación, formación y desarrollo en tecnologías emergentes. Su misión es potenciar el trabajo académico como tesis y proyectos de investigación de la facultad mediante el acceso a recursos de cómputo de alto rendimiento, orientados principalmente al diseño, entrenamiento y despliegue de modelos de inteligencia artificial aplicados a la salud.
 
-El laboratorio impulsa proyectos basados en modelos fundacionales y Large Language Models (LLM) —incluyendo arquitecturas tipo GPT y variantes abiertas, así como en visión por computadora, aprendizaje multimodal y procesamiento de señales. 
+El laboratorio impulsa proyectos basados en modelos fundacionales y Large Language Models (LLM) open-weight, visión por computadora y procesamiento de señales. 
 
 ---
 
