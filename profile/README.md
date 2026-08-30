@@ -34,9 +34,9 @@ Nos encontramos físicamente en el Laboratorio 113-1 del LID, en un ambiente có
 
 ---
 
-<div align="center">
+
   ![](./imgs/ambiente.png)
-</div>
+
 
 ---
 Made with ❤️ by [LIA-UPCH]
