@@ -34,8 +34,10 @@ Nos encontramos físicamente en el Laboratorio 113-1 del LID, en un ambiente có
 
 ---
 
+<div align="center">
+  <img src="./imgs/ambiente.png" align="center">
+</div>
 
-  ![](./imgs/ambiente.png)
 
 
 ---
