@@ -1,5 +1,4 @@
-# 🌟 Welcome to [Your Organization Name]
-
+# 🌟 Bienvenido al Repositorio del Laboratorio de IA
 ![Logo](https://example.com/logo.png) <!-- Optional: add your logo -->
 
 We are a community of developers, researchers, and engineers passionate about [your mission, e.g., AI, embedded systems, open-source projects].
