@@ -1,69 +1,31 @@
-# 🌟 Bienvenido al Repositorio del Laboratorio de IA
-![Logo](https://example.com/logo.png) <!-- Optional: add your logo -->
+# 🌟 Bienvenido al Repositorio de LIA UPCH
+![Logo](./imgs/logo_solo.png) <!-- Optional: add your logo -->
 
-We are a community of developers, researchers, and engineers passionate about [your mission, e.g., AI, embedded systems, open-source projects].
+El Laboratorio de Inteligencia Artificial de la Facultad de Ciencias e Ingeniería de la Universidad Peruana Cayetano Heredia (LIA-UPCH) se constituye como un espacio de investigación, formación y desarrollo en tecnologías emergentes. Su misión es potenciar el trabajo académico como tesis y proyectos de investigación de la facultad mediante el acceso a recursos de cómputo de alto rendimiento, orientados principalmente al diseño, entrenamiento y despliegue de modelos de inteligencia artificial aplicados a la salud.
 
----
+El Laboratorio IA-UPCH es un espacio de investigación, formación y desarrollo orientado a IA de alto rendimiento y MLOps aplicados a la salud. El laboratorio impulsa proyectos basados en modelos fundacionales y Large Language Models (LLM) —incluyendo arquitecturas tipo GPT y variantes abiertas— así como en visión por computadora, aprendizaje multimodal (texto–imagen–señales biomédicas) y procesamiento de señales. La infraestructura con GPU cuenta, de forma preconfigurada, con las librerías de Tensorflow, PyTorch, OpenCV y Scikit-LEarn.---
 
-## 🔍 What We Do
+# Recursos computacionales
 
-- 🤖 Developing cutting-edge solutions in [e.g., Machine Learning, IoT, Robotics]
-- 🧠 Promoting open-source innovation and collaboration
-- 📚 Sharing knowledge through blogs, tutorials, and workshops
-- 🤝 Building communities around [e.g., TinyML, AI in Health]
+Nuestros recursos tienen el nombre de Hinton&Hopfield  en honor a los científicos ganadores del Premio Nobel de Física 2024 por sus contribuciones a la IA y física.
 
----
+Actualmente estos recursos se agrupan de la siguiente forma:
+- 1era PC: llamada HINTON I, cuyos recursos computacionales son:
+  - GPU:  1 RTX A6000 de 49GB de VRAM.
+  - Memoria RAM: 32 GB DDR5
+  - Espacio de almacenamiento: 1TB
+  - CPU: core i9
+- 2da PC: llamada HINTON II, 2 RTX A6000 de 49GB de GPU, total 98GB GPU
+  - GPU:  2 RTX A6000 de 49 GB de VRAM c/u, total: 98 GB VRAM.
+  - Memoria RAM: 128 GB DDR5
+  - Espacio de almacenamiento: 6 TB
+  - CPU: core i9
 
-## 👩‍💻 Our Members
+## Espacio de trabajo
 
-We are a team of passionate individuals from various backgrounds. [Link to team page or member list]
+Nos encontramos físicamente en el Laboratorio 113-1 del LID, en un ambiente cómodo  con espacio de trabajo para 7 usuarios con conexión a puntos de RED independientes. En este laboratorio se encuentran las Hinton&Holpfield.
 
----
-
-## 📂 Projects We're Working On
-
-| Project | Description | Links |
-|--------|-------------|-------|
-| [Project 1] | Brief description of project | [Code](https://github.com/org/project1) |
-| [Project 2] | Another project description | [Code](https://github.com/org/project2) |
-
----
-
-## 📸 Featured Projects
-
-![Project 1](https://example.com/project1.png)  
-**Project 1**: Brief description
-
-![Project 2](https://example.com/project2.png)  
-**Project 2**: Brief description
+![](https://ciencias.cayetano.edu.pe/wp-content/uploads/sites/28/2025/09/laboratorio.jpg)
 
 ---
-
-## 🧩 Skills & Technologies
-
-- 🧠 Machine Learning
-- 📱 Embedded Systems
-- 🌐 IoT
-- 📊 Data Science
-- 🧰 Python, C++, TensorFlow, PyTorch, etc.
-
----
-
-## 📬 Get in Touch
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [https://yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📚 Blog: [https://yourblog.com](https://yourblog.com)
-
----
-
-## 🏆 Join Us!
-
-We welcome contributors, collaborators, and supporters.  
-👉 [Contribute to our projects](https://github.com/org-name)  
-👉 [Join our community](https://discord.gg/your-link) (or Slack, etc.)
-
----
-
 Made with ❤️ by [Your Organization]
