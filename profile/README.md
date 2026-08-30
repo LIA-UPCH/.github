@@ -27,6 +27,8 @@ Actualmente estos recursos se agrupan de la siguiente forma:
 
 Nos encontramos físicamente en el Laboratorio 113-1 del LID, en un ambiente cómodo  con espacio de trabajo para 7 usuarios con conexión a puntos de RED independientes. En este laboratorio se encuentran las Hinton&Holpfield.
 
+![](./imgs/ambiente.png)
+
 ![](https://ciencias.cayetano.edu.pe/wp-content/uploads/sites/28/2025/09/laboratorio.jpg)
 
 ---
